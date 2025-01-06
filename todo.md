@@ -42,7 +42,8 @@
 - [x] Lint final code to have all indents
 
 
-
-
 ## BUGS TO LOOK AT LATER
-- [ ] program breaks when withdrawal amount is greater than the balance. Unboundlocal error
+- [x] program breaks when withdrawal amount is greater than the balance. Unboundlocal error
+- [x] program only edits the final account in the text file and not a specific account chosen by user
+- [ ] Program has "-----" beside "Account Pin" after every transaction in the text file
+
