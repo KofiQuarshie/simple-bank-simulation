@@ -1,0 +1,14 @@
+
+Account Holder: Kofi Quarshie
+Account Balance: £1000.0
+
+Account Holder: Kofi Quarshie
+Account Balance: £1020.0
+
+Account Holder: Kofi Quarshie
+Account Balance: £1000.0
+Account Number: 3944576
+Account Pin: 1234
+------Account Pin: 1234
+------Account Pin: 1234
+------
